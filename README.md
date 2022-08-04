@@ -2,7 +2,7 @@
 
 ### 백준
 |문제번호|제목|URL|알고리즘|설명|
-|------|  ---  |  --- | --- | --- |
+||------|  --- | --- | --- |
 |10026|적록색약|<https://www.acmicpc.net/search#q=10026&c=Problems>|DFS/BFS||
 |1024|수열의 합|<https://www.acmicpc.net/problem/1024>|재귀||
 |11404|플로이드|<https://www.acmicpc.net/problem/11404>|floyd-warshal|<https://www.notion.so/9a275bb1a6a64ab7bf4a3219f0f5ea86>|
