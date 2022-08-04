@@ -25,7 +25,7 @@
 |3020|개똥벌레|이분탐색||
 
 
-### Sansung Software Expert Academy
+### Sasung Software Expert Academy
 |문제번호|제목|알고리즘|설명|
 |:---:|:----------:|:---:|:---:|
 |1208|Flatten|||
