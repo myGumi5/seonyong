@@ -23,6 +23,8 @@
 |2193|이친수|DP||
 |2606|바이러스|DFS/BFS||
 |3020|개똥벌레|이분탐색||
+|14499|주사위 굴리기|구현(시뮬레이션)||
+|1261|알고스팟|DFS/BFS + Tree||
 
 
 ### Sasung Software Expert Academy
