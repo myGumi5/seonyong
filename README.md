@@ -27,6 +27,7 @@
 |1261|알고스팟|DFS/BFS + Tree|준비중|
 |12891|DNA 비밀번호|두 포인터||
 |2023|신기한 소수|DFS/BFS + 소수|준비중|
+|16234|인구이동|구현(시뮬레이션) + BFS||
 
 
 ### Sasung Software Expert Academy
