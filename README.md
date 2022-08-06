@@ -28,6 +28,7 @@
 |12891|DNA 비밀번호|두 포인터||
 |2023|신기한 소수|DFS/BFS + 소수|준비중|
 |16234|인구이동|구현(시뮬레이션) + BFS||
+|2493|탑|Stack|준비중|
 도서관, 퇴사
 
 ### Sasung Software Expert Academy
