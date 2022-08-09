@@ -31,6 +31,7 @@
 |2493|탑|Stack|준비중|
 |1461|도서관|그리디||
 |7562|나이트의 이동|BFS||
+|4179|불!|BFS||
 퇴사(못품)
 
 ### Sasung Software Expert Academy
