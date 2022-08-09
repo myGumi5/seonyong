@@ -34,6 +34,7 @@
 |4179|불!|BFS||
 |14501|퇴사|DP||
 |1463|1로 만들기|DP||
+|1697|숨박꼭질|BFS||
 
 ### Sasung Software Expert Academy
 |문제번호|제목|알고리즘|설명|
