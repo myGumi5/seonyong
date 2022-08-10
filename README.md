@@ -37,6 +37,7 @@
 |1697|숨박꼭질|BFS||
 |11723|집합|비트마스킹|https://www.notion.so/c9b84c83002f4e0090b939c0b7ba5f40|
 |16926|배열 돌리기 1|구현||
+|1010|다리 놓기|DP||
 
 ### Sasung Software Expert Academy
 |문제번호|제목|알고리즘|설명|
