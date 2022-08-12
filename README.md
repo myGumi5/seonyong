@@ -45,6 +45,7 @@
 |1992|쿼드트리|분할정복|https://www.notion.so/a1666bf32c0d4ef8a6d5c9f67c36e580|
 |15686|치킨 배달|순열/조합||
 |14503|로봇 청소기|구현||
+|1743|음식물 피하기|BFS||
 
 
 ### Sasung Software Expert Academy
