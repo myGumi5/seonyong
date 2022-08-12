@@ -42,7 +42,7 @@
 |2239|동전 1|DP||
 |16935|배열 돌리기 3|구현||
 |2468|안전 영역|BFS/DFS||
-
+|1992|쿼드트리|분할정복|https://www.notion.so/a1666bf32c0d4ef8a6d5c9f67c36e580|
 
 ### Sasung Software Expert Academy
 |문제번호|제목|알고리즘|설명|
