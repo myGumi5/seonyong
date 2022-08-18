@@ -54,6 +54,7 @@
 |2075|N번째 큰 수|우선순위 큐||
 |15565|귀여운 라이언|두 포인터|https://blog.naver.com/tony3337|
 |1541|잃어버린 괄호|그리디||
+|1987|알파벳|백트래킹|https://www.notion.so/ca2660383a744f99a6e989ef2c23058d|
 
 ### Sasung Software Expert Academy
 |문제번호|제목|알고리즘|설명|
