@@ -78,6 +78,7 @@
 |3289|서로소 집합|UNION-FIND||
 |3124|최소 스패닝 트리|UNION-FIND|https://www.notion.so/UNION-FIND-d20e4e695c7c4b07addf7b254778adc2|
 |2819|격자판의 숫자 이어 붙이기|DFS||
+|7465|창용 마을 무리의 개수|BFS||
 
 ### JUNGOL
 |문제번호|제목|알고리즘|설명|
