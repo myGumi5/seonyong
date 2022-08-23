@@ -75,6 +75,9 @@
 |1861|정사각형방|BFS||
 |1227|미로2|BFS||
 |1238|Contact|BFS||
+|3289|서로소 집합|UNION-FIND||
+|3124|최소 스패닝 트리|UNION-FIND|https://www.notion.so/UNION-FIND-d20e4e695c7c4b07addf7b254778adc2|
+|2819|격자판의 숫자 이어 붙이기|DFS||
 
 ### JUNGOL
 |문제번호|제목|알고리즘|설명|
