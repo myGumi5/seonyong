@@ -77,6 +77,7 @@
 |   7569   |       토마토       |             BFS             |                                                          |
 |   9084   |        동전        |             DP              |                                                          |
 |  14728   |      벼락치기      |        배낭문제, DP         |                          준비중                          |
+|   7579   |         앱         |             DP              |                                                          |
 
 ### Sasung Software Expert Academy
 
