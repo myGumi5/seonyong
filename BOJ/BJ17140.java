@@ -42,7 +42,7 @@ public class BJ17140 {
 
 			int num = 1;
 			int count = 1;
-			while (count <= 200) {
+			while (count <= 100) {
 				for (int j = 1; j <= 200; j++) {
 					if (cnt[j] == count) {
 						len+=2;
@@ -57,13 +57,7 @@ public class BJ17140 {
 		
 		C = maxLen;
 		if(C >= 100) {
-			for(int i = 1; i <= R; i++) {
-				for(int j = 101; j <= 200; j++) {
-					map[i][j-100] = sub[i][j];
-				}
-			}
-			C-= 100;
-			return;
+			C = 100;
 		}
 		for(int i = 1; i <= R; i++) {
 			for(int j = 1; j <= C; j++) {
@@ -98,12 +92,7 @@ public class BJ17140 {
 		
 		R = maxLen;
 		if(R >= 100) {
-			for(int i = 101; i <= 200; i++) {
-				for(int j = 1; j <= C; j++) {
-					map[i-100][j] = sub[i][j];
-				}
-			}
-			R -= 100;
+			R = 100;
 			return;
 		}
 		for(int i = 1; i <= R; i++) {
