@@ -91,6 +91,7 @@
 |   2636   |        치즈        |              BFS              |                                                          |
 |  17136   |   색종이 붙이기    |     DFS+구현(시뮬레이션)      |                                                          |
 |  17142   |      연구실3       |            DFS+BFS            |                                                          |
+|  15661   |      링크와 스타트       |            DFS+구현(시뮬레이션)            |                                                          |
 
 ### Sasung Software Expert Academy
 
