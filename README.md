@@ -94,6 +94,7 @@
 |  15661   |      링크와 스타트       |            DFS+구현(시뮬레이션)            |                  |
 |  14889   |       스타트와 링크       |            DFS+구현(시뮬레이션)            |                                                |
 |  10971   |       외판원 순회 2       |            DFS+구현(시뮬레이션)            |                                               |
+|  1600   |       말이 되고픈 원숭이       |            BFS            |https://www.notion.so/BOJ-1600-af9db5bcd20446ca91c572c356f24de8|
 
 ### Sasung Software Expert Academy
 
