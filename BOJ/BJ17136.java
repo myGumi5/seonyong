@@ -21,12 +21,15 @@ public class BJ17136 {
 		}
 		
 		dfs(0, new int[N][N], 0, new int[] {0, 5, 5, 5, 5, 5});
+		
+		// ans 값이 초기값에서 변하지 않았다면, 색종이를 어떤 경우의 수로도 붙힐 수 없음
 		if(ans == Integer.MAX_VALUE) System.out.println("-1");
 		else System.out.println(ans);
 
 	}
 	static void dfs(int depth, int[][] sub, int cnt, int[] arr) {
 		// 백트레킹
+		// 선택한 색종이가 이전에 값이 의해 구해준 색종이 갯수 보다 크다면 더 이상 탐색할 필요가 없다.
 		if(cnt >= ans) return;
 		
 		// 종료조건
@@ -43,14 +46,20 @@ public class BJ17136 {
 			dfs(depth + 1, sub, cnt, copyArr);
 		} else {
 			// 선택할 때, 1~5사이즈를 가진 색종이를 붙히 수 있는지 탐색한다.
-			// 붙힐 수 있다면 그만큼 붙힌 후 다음 과정이로 넘어간다.
+			// 붙힐 수 있다면 그만큼 붙힌 후 다음 과정으로 넘어간다.
 			for (int i = 5; i >= 1; i--) {
 				if(check(depth, i, map, copyArr)) continue;
+				// 색종이를 붙힐 수 있다면 붙히고 그럴 수 없다면, 무시한다
+				
 				draw(depth, map, i, 2);
+				// 색종이를 그린다.  
 				copyArr[i]--;
+				// 해당 번호에 맞는 색종이 갯수를 뺀다.
 				dfs(depth + 1, sub, cnt+1, copyArr);
 				copyArr[i]++;
+				// 다음 탐색을 위해 색종의 갯수를 원상 복구한다.
 				draw(depth, map, i, 1);
+				// 다음 탐색을 위해 붙힌 색종이를 원상 복구한다.
 			}
 		}
 		
