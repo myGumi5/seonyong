@@ -97,6 +97,7 @@
 |   1600   | 말이 되고픈 원숭이 |              BFS              | https://www.notion.so/BOJ-1600-af9db5bcd20446ca91c572c356f24de8  |
 |  17143   |       낚시왕       |       구현(시뮬레이션)        | https://www.notion.so/BOJ-17146-3789ea9155ac4f99bd0b46ee3b6d4f58 |
 |  13904   |       과제       |       그리디        |  |
+|  2212   |       센서       |       그리디        |  |
 
 ### Sasung Software Expert Academy
 
