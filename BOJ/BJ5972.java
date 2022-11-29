@@ -24,12 +24,14 @@ public class BJ5972 {
 			int c = sc.nextInt();
 			
 			if(map.get(n1) == null) {
-				map.put(n1, new ArrayList<>(Arrays.asList(new Edge(n2, c))));
+				map.put(n1, new ArrayList<>());
+				map.get(n1).add(new Edge(n2, c));
 			} else {
 				map.get(n1).add(new Edge(n2, c));
 			}
 			if(map.get(n2) == null) {
-				map.put(n2, new ArrayList<>(Arrays.asList(new Edge(n1, c))));
+				map.put(n2, new ArrayList<>());
+				map.get(n2).add(new Edge(n1, c));
 			} else {
 				map.get(n2).add(new Edge(n1, c));
 			}
@@ -42,21 +44,20 @@ public class BJ5972 {
 	}
 	static void bfs() {
 		PriorityQueue<Edge> pq = new PriorityQueue<>();
-		for(Edge e : map.get(1)) {
-			pq.add(e);
-			arr[e.n] = e.weight;
-		}
-		
+		pq.add(new Edge(1, 0));
+		arr[1] = 0;
+
 		while(!pq.isEmpty()) {
 			Edge e = pq.poll();
-
+			if(e.weight > arr[e.n]) continue;
 			if(map.get(e.n) == null) continue;
+			
 			for(Edge sub : map.get(e.n)) {
 				int val = arr[e.n] + sub.weight;
 				
 				if(arr[sub.n] > val) {
 					arr[sub.n] = val;
-					pq.add(sub);
+					pq.add(new Edge(sub.n, arr[sub.n]));
 				}
 				
 			}
