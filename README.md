@@ -109,6 +109,7 @@
 |   5972   |    택배 배송    |       다익스트라        |                                                                  |
 |   1406   |    에디터    |       ListIterator        |                                                                  |
 |   5397   |    키로거    |       ListIterator        |                                                                  |
+|   1283   |    단축키 지정    |       구현&문자열        |                                                                  |
 
 ### Sasung Software Expert Academy
 
