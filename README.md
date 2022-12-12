@@ -111,6 +111,7 @@
 |   5397   |    키로거    |       ListIterator        |                                                                  |
 |   1283   |    단축키 지정    |       구현&문자열        |                                                                  |
 |   2002   |    추월    |       구현&자료구조&문자열        |                                                                  |
+|   14442   |    벽 부수고 이동하기 2    |       BFS        |                                                                  |
 
 ### Sasung Software Expert Academy
 
