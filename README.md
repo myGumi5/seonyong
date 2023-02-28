@@ -143,6 +143,7 @@
 |   1543   |          문서검색          |       문자열, 완전탐색        |                                                                  |
 |   2785   |            체인            |         그리디, 정렬          |                                                                  |
 |   1015   |         수열 정렬          |             정렬              |                                                                  |
+|  15591   |      MooTube(Silver)       |           BFS 정렬            |                                                                  |
 
 ### Sasung Software Expert Academy
 
