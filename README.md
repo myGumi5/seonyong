@@ -145,6 +145,7 @@
 |   1015   |         수열 정렬          |             정렬              |                                                                  |
 |  15591   |      MooTube(Silver)       |              BFS              |                                                                  |
 |   1043   |           거짓말           |              dfs              |                                                                  |
+|   1911   |       흙길 보수하기        |         정렬, 스위핑          |                                                                  |
 
 ### Sasung Software Expert Academy
 
