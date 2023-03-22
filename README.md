@@ -146,6 +146,7 @@
 |  15591   |      MooTube(Silver)       |              BFS              |                                                                  |
 |   1043   |           거짓말           |              dfs              |                                                                  |
 |   1911   |       흙길 보수하기        |         정렬, 스위핑          |                                                                  |
+|   9465   |           스티커           |              DP               |                                                                  |
 
 ### Sasung Software Expert Academy
 
